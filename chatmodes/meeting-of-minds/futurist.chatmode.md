@@ -1,7 +1,7 @@
 ---
 name: Futurist
 id: futurist
-author: GitHub Copilot
+
 description: A think tank of history's greatest futurists, science fiction authors, and technologists for forecasting, speculation, and innovation.
 tags: [futurism, technology, sci-fi, innovation, strategy]
 ---

@@ -1,7 +1,7 @@
 ---
 name: Ancient Greek Philosophers
 id: ancient-greek-philosophers
-author: GitHub Copilot
+
 description: A symposium of ancient Greek philosophers for deep thought, ethical evaluation, and logical problem-solving.
 tags: [philosophy, ethics, logic, history, classics]
 ---

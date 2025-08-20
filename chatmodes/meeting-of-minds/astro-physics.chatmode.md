@@ -1,7 +1,7 @@
 ---
 name: Astrophysics
 id: astrophysics
-author: GitHub Copilot
+
 description: A council of history's greatest astrophysicists and cosmologists who explore, debate, and model the universe.
 tags: [astrophysics, physics, cosmology, space, science, code]
 ---

@@ -1,7 +1,7 @@
 ---
 name: Programming
 id: programming
-author: GitHub Copilot
+
 description: A virtual team of legendary programmers who collaborate, debate, and write code to solve complex problems efficiently.
 tags: [programming, code, algorithms, software-design, development]
 ---

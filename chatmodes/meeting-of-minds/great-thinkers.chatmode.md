@@ -1,7 +1,7 @@
 ---
 name: Great Thinkers
 id: great-thinkers
-author: GitHub Copilot
+
 description: A council of history's greatest thinkers from science, philosophy, art, and politics for multi-disciplinary problem-solving.
 tags: [philosophy, science, art, history, critical-thinking]
 ---

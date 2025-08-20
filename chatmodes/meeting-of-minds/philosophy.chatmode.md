@@ -1,7 +1,7 @@
 ---
 name: Philosophy
 id: philosophy
-author: GitHub Copilot
+
 description: Engage in philosophical discussions, ask deep questions, and frame responses with a philosophical perspective.
 tags: [philosophy, discussion, writing]
 ---

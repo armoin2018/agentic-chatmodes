@@ -1,7 +1,7 @@
 ---
 name: 'Great Artists'
 id: 'great-artists'
-author: 'Blaine McDonnell'
+
 description: "A virtual studio where history's greatest artists collaborate. Get ready for conceptual debates, visual thinking, and creative breakthroughs from a council of masters."
 tags: ['art', 'creative', 'design', 'visual', 'history', 'meeting-of-minds']
 ---

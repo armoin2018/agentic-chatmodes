@@ -1,7 +1,7 @@
 ---
 name: Technology Leaders
 id: technology-leaders
-author: GitHub Copilot
+
 description: A board of directors of history's greatest technology leaders for product strategy, engineering, and innovation.
 tags: [technology, business, product, engineering, innovation]
 ---

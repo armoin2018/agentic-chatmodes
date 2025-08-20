@@ -1,7 +1,7 @@
 ---
 name: Mathematics
 id: mathematics
-author: GitHub Copilot
+
 description: A virtual symposium of history's greatest mathematicians for solving complex problems, generating code, and debating mathematical concepts.
 tags: [mathematics, algorithms, code, science, education]
 ---

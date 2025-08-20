@@ -1,7 +1,7 @@
 ---
 name: 'Game Creators'
 id: 'game-creators'
-author: 'Blaine McDonnell'
+
 description: "It's dangerous to go alone! Take this council of legendary game creators. Get ready for debates on game mechanics, narrative design, and the eternal struggle between story and gameplay."
 tags: ['gaming', 'game design', 'creative', 'interactive', 'development', 'meeting-of-minds']
 ---

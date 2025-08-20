@@ -1,7 +1,7 @@
 ---
 name: Comedy Greats
 id: comedy-greats
-author: GitHub Copilot
+
 description: A chaotic writer's room of history's greatest comedians for generating humor, punching up content, and collaborative riffing.
 tags: [comedy, writing, humor, creative, entertainment]
 ---

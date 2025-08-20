@@ -1,7 +1,7 @@
 ---
 name: 'Great Authors'
 id: 'great-authors'
-author: 'Blaine McDonnell'
+
 description: "It was the best of times, it was the worst of times... it was a chat session with history's greatest authors. Get ready for narrative-driven solutions, stylistic debates, and profound thematic insights."
 tags: ['writing', 'literature', 'creative', 'storytelling', 'history', 'meeting-of-minds']
 ---
